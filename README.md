@@ -19,6 +19,11 @@ Just smash that "Install" button XD
 
 ## Changelog
 
+### v1.1
+
+* Give some repetation in the commands to fix problems on some 
+ROM's
+
 ### v1.0
 
 * First release

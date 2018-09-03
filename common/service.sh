@@ -7,3 +7,50 @@ MODDIR=${0%/*}
 # More info in the main Magisk thread
 echo 1 >/sys/android_touch/doubletap2wake
 
+sleep 30
+
+echo 1 >/sys/android_touch/doubletap2wake
+
+sleep 30
+
+echo 1 >/sys/android_touch/doubletap2wake
+
+sleep 30
+
+echo 1 >/sys/android_touch/doubletap2wake
+
+sleep 30
+
+echo 1 >/sys/android_touch/doubletap2wake
+
+sleep 30
+
+echo 1 >/sys/android_touch/doubletap2wake
+
+sleep 30
+
+echo 1 >/sys/android_touch/doubletap2wake
+
+sleep 30
+
+echo 1 >/sys/android_touch/doubletap2wake
+
+sleep 30
+
+echo 1 >/sys/android_touch/doubletap2wake
+
+sleep 30
+
+echo 1 >/sys/android_touch/doubletap2wake
+
+sleep 30
+
+echo 1 >/sys/android_touch/doubletap2wake
+
+sleep 30
+
+echo 1 >/sys/android_touch/doubletap2wake
+
+sleep 30
+
+echo 1 >/sys/android_touch/doubletap2wake

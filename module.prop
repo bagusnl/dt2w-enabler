@@ -1,7 +1,7 @@
 id=dt2w-enabler
 name=Systemless DT2W Enabler
-version=v1
-versionCode=10
+version=v1.1
+versionCode=11
 author=bagusnl
 description=Enabling DT2W on supported kernel systemless and painless.
 minMagisk=17000
